@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://organic-heritage.digitalpress.blog",
+    "contentApiKey": "259867c8039e148e4f9f1cf1d9"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://organic-heritage.digitalpress.blog",
+    "contentApiKey": "259867c8039e148e4f9f1cf1d9"
   }
 }
