@@ -742,6 +742,9 @@ h6 {
     background: rgba(0,0,0,0.32);
 }
 
+.site-nav-right{
+    background: rgba(0,0,0,0.32);
+}
 .site-nav-button {
     display: inline-block;
     padding: 5px 10px;
@@ -750,11 +753,12 @@ h6 {
     font-size: 1.3rem;
     line-height: 1em;
     border-radius: var(--radius);
-    opacity: 0.7;
 }
 
 .site-nav-button:hover {
     text-decoration: none;
+    color:#000;
+    background:#fff;
 }
 
 /* Main

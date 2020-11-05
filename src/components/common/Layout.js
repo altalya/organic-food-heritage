@@ -64,7 +64,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                     <Navigation data={site.navigation} navClass="site-nav-item" />
                                 </div>
                                 <div className="site-nav-right">
-                                    <Link className="site-nav-button" to="/about">About</Link>
+                                    <Link className="site-nav-button" to="/about-us">About Us</Link>
                                 </div>
                             </nav>
                         </div>
@@ -82,7 +82,6 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                     <footer className="site-foot">
                         <div className="site-foot-nav container">
                             <div className="site-foot-nav-left">
-                                <Link to="/">{site.title}</Link> © 2020 &mdash; Powered by <a className="site-foot-nav-item" href="https://www.altalya.com" target="_blank" rel="noopener noreferrer">Altalya</a>
                             </div>
                             <div className="site-foot-nav-right">
                                 <Navigation data={site.navigation} navClass="site-foot-nav-item" />
